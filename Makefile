@@ -8,8 +8,9 @@ REPO_DIR ?= $(shell pwd | xargs echo -n)
 
 check:
 	@echo "Python3: $(shell python3 --version)"
+	@echo "PIP: $(shell pip3 --version)"
 	@echo "REPO_DIR: $(REPO_DIR)"
-	@./scripts/check-cpu.sh
+	@cd scripts && ./check-cpu.sh
 
 ingest:
 	@python3 ingest.py
@@ -19,4 +20,4 @@ run:
 
 setup:
 	@echo "SETUP:"
-	@./script/setup-init.sh
+	@cd scripts && ./setup-init.sh
