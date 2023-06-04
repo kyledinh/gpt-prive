@@ -24,6 +24,16 @@ else
   pip3 install -r ../requirements.txt
 fi
 
+## https://github.com/imartinez/privateGPT/issues/59
+## https://github.com/hippalectryon-0/CASALIOY/blob/3af2ae5edc1f6c0adfc2fb0cfb3e4ac852b82dbd/Dockerfile
+python3 -m pip uninstall -y llama-cpp-python
+CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 python3 -m pip install llama-cpp-python  # GPU support
+# pre-commit install
+
+
+# https://github.com/imartinez/privateGPT/discussions/217
+
+
 ## make directories
 if [ ! -e "../db" ]; then
   mkdir ../db
