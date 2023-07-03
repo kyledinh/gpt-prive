@@ -3,7 +3,7 @@
 
 ## Colab Notebooks
 
-[WebUI Text Gen](https://colab.research.google.com/github/kyledinh/kodex/blob/main/notebooks/webui-text-gen.ipynb)
+[WebUI Text Gen](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb)
 
 <br><hr><br>
 
