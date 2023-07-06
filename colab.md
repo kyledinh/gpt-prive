@@ -1,39 +1,40 @@
 
 ## 🦒 Colab
 
-## Colab Notebooks
-
-[WebUI Text Gen](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb)
+## Text Generation Web UI
+[WebUI Text Gen Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb)
+[https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) 
 
 <br><hr><br>
 
-| colab | Info - Model Page
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb) | vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13B-1.1-GPTQ-4bit-128g.ipynb) | vicuna-13B-1.1-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb) | gpt4-x-alpaca-13b-native-4bit-128g <br /> https://huggingface.co/chavinlo/gpt4-x-alpaca
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-GPTQ-4bit-128g.ipynb) | pyg-7b-GPTQ-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/koala-13B-GPTQ-4bit-128g.ipynb) | koala-13B-GPTQ-4bit-128g <br /> https://bair.berkeley.edu/blog/2023/04/03/koala
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/oasst-llama13b-GPTQ-4bit-128g.ipynb) | oasst-llama13b-GPTQ-4bit-128g <br /> https://open-assistant.io
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-7b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-7b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mpt-storywriter-7b-GPTQ-4bit-128g.ipynb) | mpt-storywriter-7b-GPTQ-4bit-128g <br /> https://www.mosaicml.com
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-13b-GPTQ-4bit-128g.ipynb) | wizard-lm-uncensored-13b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-13b-GPTQ-4bit-128g.ipynb) | pyg-13b-GPTQ-4bit-128g <br /> https://huggingface.co/PygmalionAI/pygmalion-13b
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/falcon-7b-instruct-GPTQ-4bit.ipynb) | falcon-7b-instruct-GPTQ-4bit <br /> https://falconllm.tii.ae/
+Language Model                                                                                  | Open in Colab
+------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+vicuna-13b-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org                                       | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb)
+vicuna-13B-1.1-GPTQ-4bit-128g <br /> https://vicuna.lmsys.org                                   | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13B-1.1-GPTQ-4bit-128g.ipynb)
+stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb)
+gpt4-x-alpaca-13b-native-4bit-128g <br /> https://huggingface.co/chavinlo/gpt4-x-alpaca         | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/gpt4-x-alpaca-13b-native-4bit-128g.ipynb)
+pyg-7b-GPTQ-4bit-128g <br /> https://huggingface.co/Neko-Institute-of-Science/pygmalion-7b      | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-7b-GPTQ-4bit-128g.ipynb)
+koala-13B-GPTQ-4bit-128g <br /> https://bair.berkeley.edu/blog/2023/04/03/koala                 | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/koala-13B-GPTQ-4bit-128g.ipynb)
+oasst-llama13b-GPTQ-4bit-128g <br /> https://open-assistant.io                                  | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/oasst-llama13b-GPTQ-4bit-128g.ipynb)
+mpt-storywriter-7b-GPTQ-4bit-128g <br /> https://www.mosaicml.com                               | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/mpt-storywriter-7b-GPTQ-4bit-128g.ipynb)
+wizard-lm-uncensored-13b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM             | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-13b-GPTQ-4bit-128g.ipynb)
+pyg-13b-GPTQ-4bit-128g <br /> https://huggingface.co/PygmalionAI/pygmalion-13b                  | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/pyg-13b-GPTQ-4bit-128g.ipynb)
+falcon-7b-instruct-GPTQ-4bit <br /> https://falconllm.tii.ae/                                   | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/falcon-7b-instruct-GPTQ-4bit.ipynb)
+wizard-lm-uncensored-7b-GPTQ-4bit-128g <br /> https://github.com/nlpxucan/WizardLM              | [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/wizard-lm-uncensored-7b-GPTQ-4bit-128g.ipynb)
 
-## 🦒 Colab Pro
-According to the Facebook Research LLaMA license (Non-commercial bespoke license), maybe we cannot use this model with a Colab Pro account.
-But Yann LeCun said "GPL v3" (https://twitter.com/ylecun/status/1629189925089296386) I am a little confused. Is it possible to use this with a non-free Colab Pro account?
+
+
+
+
+## Models License
+
+Model                              | License
+-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+vicuna-13b-GPTQ-4bit-128g          | From https://vicuna.lmsys.org: The online demo is a research preview intended for non-commercial use only, subject to the model <br> [License](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md) of LLaMA, Terms of Use of the data generated by OpenAI, and Privacy Practices of ShareGPT. Please contact us If you find any potential violation. The code is released under the Apache License 2.0.
+gpt4-x-alpaca-13b-native-4bit-128g | https://huggingface.co/chavinlo/alpaca-native -> https://huggingface.co/chavinlo/alpaca-13b -> https://huggingface.co/chavinlo/gpt4-x-alpaca
+
+
+<br><hr><br>
 
 ## Tutorial
 https://www.youtube.com/watch?v=kgA7eKU1XuA
-
-## Text Generation Web UI
-[https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
-
-## Models License
-| Model | License
-| --- | --- |
-vicuna-13b-GPTQ-4bit-128g | From https://vicuna.lmsys.org: The online demo is a research preview intended for non-commercial use only, subject to the model [License](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md) of LLaMA, Terms of Use of the data generated by OpenAI, and Privacy Practices of ShareGPT. Please contact us If you find any potential violation. The code is released under the Apache License 2.0.
-gpt4-x-alpaca-13b-native-4bit-128g | https://huggingface.co/chavinlo/alpaca-native -> https://huggingface.co/chavinlo/alpaca-13b -> https://huggingface.co/chavinlo/gpt4-x-alpaca
