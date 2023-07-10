@@ -2,8 +2,20 @@
 ## 🦒 Colab
 
 ## Text Generation Web UI
-[WebUI Text Gen Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb)
+[WebUI Text Gen Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb) :
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) 
+
+<br>
+
+## Finetune LLM 
+[Train Falcon 7b with ChatGPT to generate dataset](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7b-finetune-midjourney-falcon.ipynb) : 
+[YouTube Video: "okay, but I want GPT to perform 10x for my specific use case"](https://www.youtube.com/watch?v=Q9zv369Ggfk)
+
+<br>
+
+## Training
+[Train Falcon 7b with Guanaco dataset on Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7gb-sharded-llm-guanaco-dataset.ipynb) : 
+[YouTube Video: "How to Instruct Fine-Tuning Falcon-7B"](https://www.youtube.com/watch?v=2PlPqSc3jM0)
 
 <br><hr><br>
 
