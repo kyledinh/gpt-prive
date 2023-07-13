@@ -2,30 +2,30 @@
 ## 🦒 Colab
 
 ## Text Generation Web UI
-[WebUI Text Gen Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb) :
-[https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) 
+WebUI Text Gen Colab [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/webui-text-gen.ipynb) :
+<br> [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) 
 
 <br>
 
 ## Finetune LLM 
-[Train Falcon 7b with ChatGPT to generate dataset](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7b-finetune-midjourney-falcon.ipynb) : 
-[YouTube Video: "okay, but I want GPT to perform 10x for my specific use case"](https://www.youtube.com/watch?v=Q9zv369Ggfk)
+Train Falcon 7b with ChatGPT to generate dataset [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7b-finetune-midjourney-falcon.ipynb) : 
+<br> [YouTube Video: "okay, but I want GPT to perform 10x for my specific use case"](https://www.youtube.com/watch?v=Q9zv369Ggfk)
 
 <br>
 
-[Train Falcon 7b, QLoRA 4bit](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/YT_PEFT_Finetune_Bloom7B_tagger.ipynb) :
-[YouTube Video: "Understanding 4bit Quantization: QLoRA explained"](https://www.youtube.com/watch?v=TPcXVJ1VSRI)
+Train Falcon 7b, QLoRA 4bit [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/YT_PEFT_Finetune_Bloom7B_tagger.ipynb) :
+<br> [YouTube Video: "Understanding 4bit Quantization: QLoRA explained"](https://www.youtube.com/watch?v=TPcXVJ1VSRI)
 
 <br>
 
-[PEFT Finetune Bloom7B](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/qlora_4bit_train-falcon-guanaco.ipynb) :
-[YouTube Video: "Fine-tuning LLMs with PEFT and LoRA"](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+PEFT Finetune Bloom7B [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/qlora_4bit_train-falcon-guanaco.ipynb) :
+<br> [YouTube Video: "Fine-tuning LLMs with PEFT and LoRA"](https://www.youtube.com/watch?v=Us5ZFp16PaU)
 
 <br>
 
 ## Training
-[Train Falcon 7b with Guanaco dataset on Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7gb-sharded-llm-guanaco-dataset.ipynb) : 
-[YouTube Video: "How to Instruct Fine-Tuning Falcon-7B"](https://www.youtube.com/watch?v=2PlPqSc3jM0)
+Train Falcon 7b with Guanaco dataset on Colab [![Open In Colab](./assets/colab-badge.svg)](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7gb-sharded-llm-guanaco-dataset.ipynb) : 
+<br> [YouTube Video: "How to Instruct Fine-Tuning Falcon-7B"](https://www.youtube.com/watch?v=2PlPqSc3jM0)
 
 <br><hr><br>
 
