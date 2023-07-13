@@ -13,6 +13,16 @@
 
 <br>
 
+[Train Falcon 7b, QLoRA 4bit](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/YT_PEFT_Finetune_Bloom7B_tagger.ipynb) :
+[YouTube Video: "Understanding 4bit Quantization: QLoRA explained"](https://www.youtube.com/watch?v=TPcXVJ1VSRI)
+
+<br>
+
+[PEFT Finetune Bloom7B](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/qlora_4bit_train-falcon-guanaco.ipynb) :
+[YouTube Video: "Fine-tuning LLMs with PEFT and LoRA"](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+
+<br>
+
 ## Training
 [Train Falcon 7b with Guanaco dataset on Colab](https://colab.research.google.com/github/kyledinh/gpt-prive/blob/main/notebooks/falcon-7gb-sharded-llm-guanaco-dataset.ipynb) : 
 [YouTube Video: "How to Instruct Fine-Tuning Falcon-7B"](https://www.youtube.com/watch?v=2PlPqSc3jM0)
