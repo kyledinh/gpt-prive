@@ -1,0 +1,4 @@
+pdfminer.six==20221105
+python-dotenv==1.0.0
+sentence_transformers
+text-generation==0.6.0
