@@ -8,8 +8,9 @@ delete:
 
 setup:
 	conda create -n falcon-pdf-client python=3.10
-	conda activate falcon-pdf-client
-	pip install -r requirements.txt
+	conda activate falcon-pdf-client && pip install -r requirements.txt
+	@cp .env.sample .env
+	@echo "UPDATE YOUR .env file with URL and TOKEN!!!!"
 
 start:
 	conda activate falcon-pdf-client

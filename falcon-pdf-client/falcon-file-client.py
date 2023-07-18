@@ -7,8 +7,8 @@ from sentence_transformers import SentenceTransformer, CrossEncoder, util
 from text_generation import Client
 
 load_dotenv()
-auth = dict(Authorization="Bearer " + os.environ.get('HF_ACCESS_TOKEN'))
-CLIENT_LLM_7B = Client(base_url=os.environ.get('LLM_FALCON_7B_URL'), headers=auth)  # Fill this part
+hf_auth = dict(Authorization="Bearer " + os.environ.get('HF_ACCESS_TOKEN'))
+CLIENT_LLM_7B = Client(base_url=os.environ.get('LLM_FALCON_7B_URL'), headers=hf_auth)
 # HOST_LLM_40B = Client("https://")  # Fill this part
 # HF_ACCESS_TOKEN = 
 
