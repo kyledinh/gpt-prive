@@ -52,6 +52,7 @@ make     |         |
 ## Resources
 - https://gpt4all.io/index.html
 - https://huggingface.co/
+- https://community.openai.com/
 
 
 <br><hr><br>
