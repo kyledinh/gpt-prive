@@ -9,7 +9,7 @@
 - Docker 
 
 ## Education
-- Kaggel Courses - https://www.kaggle.com/learn
+- Kaggle Courses - https://www.kaggle.com/learn
 - Weights and Biases Courses - https://www.wandb.courses/pages/w-b-courses 
 - Hugging Face - https://huggingface.co/learn
 - Google
@@ -55,5 +55,7 @@
 - Prompt Engineering
 - Pretraing a model
 - Fine-tune a model
+- Embeddings, vector DBs
+- Context Input 
 - Publish a model 
 - Program Apps to Interface with LLM Endpoints
