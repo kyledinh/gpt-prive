@@ -31,3 +31,11 @@ run-llama:
 setup:
 	@echo "SETUP:"
 	@cd scripts && ./setup-init.sh
+
+pkg-build:
+	@echo "Building pypi gpt-prive package"
+	@cd pypi && python -m build 
+
+pkg-push:
+	@echo "Pusing gpt-prive package to pypi"
+	@cd pypi && python -m twine upload --repository pypi dist/* 
