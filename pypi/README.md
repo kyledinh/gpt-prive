@@ -1,5 +1,7 @@
-## PyPI
+## Project and PyPI Package 
 - https://pypi.org/project/gpt-prive/
+- https://github.com/gpt-prive
+- https://huggingface.co/Slowblood
 
 ## Required Dependencies 
 - build, twine
