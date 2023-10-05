@@ -12,11 +12,22 @@
 - Kaggle Courses - https://www.kaggle.com/learn
 - Weights and Biases Courses - https://www.wandb.courses/pages/w-b-courses 
 - Hugging Face - https://huggingface.co/learn
-- Google
-  - Intro to Generative AI - goo.gle/3NGqBjE
-  - Intro to LLM, Large Language Models - goo.gle/43kbKku
-  - Intro to Image Generation - goo.gle/3rljB47
+- Google Learning Path - https://www.cloudskillsboost.google/journeys/118
+  - Intro to Generative AI - https://www.cloudskillsboost.google/course_templates/536
+  - Intro to LLM, Large Language Models - https://www.cloudskillsboost.google/course_templates/539
+  - Intro to Image Generation - https://www.cloudskillsboost.google/course_templates/541 
 - Stanford CS229: Machine Learning Full Course Videos - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+- DeepLearning AI - https://www.deeplearning.ai/
+- Deep Learning Curriculum
+  - https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/
+  - https://www.coursera.org/learn/stanford-statistics
+  - https://www.learnpython.org/
+  - https://www.coursera.org/professional-certificates/ibm-machine-learning
+  - https://www.coursera.org/specializations/deep-learning
+- AI Product Manager
+  - https://www.coursera.org/specializations/ai-product-management-duke
+  - https://www.coursera.org/learn/prompt-engineering
+  - https://www.udemy.com/course/chat-gpt
 
 ## Virtual Hosting
 - Huggingface
