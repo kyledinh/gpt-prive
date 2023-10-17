@@ -13,7 +13,7 @@
 - Inference - 
 - Chain-of-Thought - Ask the model to generated a series/mulit-step output of the solution
 - Context Window
-- Input Limit
+- Input Limit/Sequence Length - Max token length for input
 - Output Limit 
 - Temperature 
 - Transformer

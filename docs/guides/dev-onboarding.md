@@ -63,6 +63,7 @@
 
 ## Articles, Videos and Guides
 - Getting Started With Hugging Face in 15 Minutes (transformer library) :thumbsup: - https://www.youtube.com/watch?v=QEaBAZQCtwE
+- A Hacker's Guide to Langauge Models :thumbsup: - https://www.youtube.com/watch?v=jkrNMKz9pWU
 - Delpoy LLMs with Hugging Face Interence Endpoints - https://huggingface.co/blog/inference-endpoints-llm
 - What Are Transformer Models and how Do They Work? - https://txt.cohere.com/what-are-transformer-models/
 - Start Machine Learning - https://github.com/louisfb01/start-machine-learning
