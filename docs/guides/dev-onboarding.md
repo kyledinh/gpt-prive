@@ -9,9 +9,9 @@
 - Docker 
 
 ## Education
-- Kaggle Courses - https://www.kaggle.com/learn
-- Weights and Biases Courses - https://www.wandb.courses/pages/w-b-courses 
 - Hugging Face - https://huggingface.co/learn
+- OpenAPI Dev Quickstart - https://platform.openai.com/docs/quickstart
+- Kaggle Courses - https://www.kaggle.com/learn
 - Google Learning Path - https://www.cloudskillsboost.google/journeys/118
   - Intro to Generative AI - https://www.cloudskillsboost.google/course_templates/536
   - Intro to LLM, Large Language Models - https://www.cloudskillsboost.google/course_templates/539
@@ -28,22 +28,31 @@
   - https://www.coursera.org/specializations/ai-product-management-duke
   - https://www.coursera.org/learn/prompt-engineering
   - https://www.udemy.com/course/chat-gpt
+- Active Loops Free Course - https://learn.activeloop.ai/courses/llms
+- Weights and Biases Courses - https://www.wandb.courses/pages/w-b-courses 
 
-## Virtual Hosting
-- Huggingface
+
+## Playgrounds
+- Hugging Face - https://huggingface.co/chat/
+- Hugging Face Spaces - https://huggingface.co/spaces
+
+## Virtual Hosting, GPU Hosting 
+- Hugging Face
 - RunPod
 - Google Colab
+- Lambda Labs 
 
 ## Communities 
-- HuggingFace (everything) 
+- Hugging Face (everything) 
 - Kaggle (challenges)
+- Discord Channels 
 
 ## Bookmarks
 - Leaderboard of LLMs
   - Open LLM Leaderboard - https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
   - StreamLit Leaderboard - https://llm-leaderboard.streamlit.app/
 - Datasets
-  - HuggingFace
+  - Hugging Face
   - Kaggle
 
 
@@ -52,12 +61,14 @@
 - Llama 2: Open Foundation and Fine-Tuned Chat Models - https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
 - Orca: Progressive Learning from Comples Expalnation Traces of GPT-4 - https://arxiv.org/abs/2306.02707
 
-## Articles and Guides
+## Articles, Videos and Guides
+- Getting Started With Hugging Face in 15 Minutes (transformer library) :thumbsup: - https://www.youtube.com/watch?v=QEaBAZQCtwE
 - Delpoy LLMs with Hugging Face Interence Endpoints - https://huggingface.co/blog/inference-endpoints-llm
 - What Are Transformer Models and how Do They Work? - https://txt.cohere.com/what-are-transformer-models/
 - Start Machine Learning - https://github.com/louisfb01/start-machine-learning
 - AI for Beginners - https://microsoft.github.io/AI-For-Beginners/?id=getting-started
 - Seven New No-Cost Generative AI Training - https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources
+- Understading Deep Learning - https://udlbook.github.io/udlbook/
 
 
 ## Developer Skillset

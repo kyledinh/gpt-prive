@@ -1,0 +1,39 @@
+# Glossary
+
+- GGML - Quantization optimized for CPU
+- GPTQ - Quantization for NVIDIA GPU
+- LLM - Large Language Model
+- Model - A trained AI with weights and biases 
+- Quantization - Full Precision (bfloat32) to (int4)
+- Weight and Bias - A parameter with a number value that relates to another parameter
+- Generative AI
+- Prompt Engineerng 
+- Zero-shot Prompting - no hints 
+- One-shot Prompting - allow 1 context with the prompt to taylor the output 
+- Inference - 
+- Chain-of-Thought - Ask the model to generated a series/mulit-step output of the solution
+- Context Window
+- Input Limit
+- Output Limit 
+- Temperature 
+- Transformer
+- Tokenization
+- Token 
+- Back Propagation
+- Input Embeddings
+- Embedding/Vector 
+- Corpus - All documents from a dataset
+- Dataset - Data for training, fine tuning
+- Encoder/Decoder
+- Attention
+- Causal Language Model
+- Hallucination 
+- Vision Transformer 
+- Pre-training
+- Fine-tuning
+- Instruction Tuning
+- Sentiment Analysis
+- PEFT - Parameter-Efficienct Fine-Tuning
+- QLoRA - Quantized Low-Rank Adapation
+- RLHF - Reinforcement Learning from Human Feedback 
+- GPT - Generative Pre-trained Transformer 
