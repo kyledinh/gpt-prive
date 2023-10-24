@@ -63,6 +63,7 @@
 
 ## Articles, Videos and Guides
 - Getting Started With Hugging Face in 15 Minutes (transformer library) :thumbsup: - https://www.youtube.com/watch?v=QEaBAZQCtwE
+- mlabonne LLM Course :thumbsup: - https://github.com/mlabonne/llm-course - https://mlabonne.github.io/blog/
 - A Hacker's Guide to Langauge Models :thumbsup: - https://www.youtube.com/watch?v=jkrNMKz9pWU
 - Delpoy LLMs with Hugging Face Interence Endpoints - https://huggingface.co/blog/inference-endpoints-llm
 - What Are Transformer Models and how Do They Work? - https://txt.cohere.com/what-are-transformer-models/
@@ -76,9 +77,9 @@
 - Deploy LLM models
 - Define settings for models
 - Prompt Engineering
-- Pretraing a model
+- Pretraning a model
 - Fine-tune a model
 - Embeddings, vector DBs
 - Context Input 
-- Publish a model 
+- Manage/Publish models and datasets 
 - Program Apps to Interface with LLM Endpoints
