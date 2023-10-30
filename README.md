@@ -6,7 +6,6 @@
 
 - [Software Requirements](#software-requirements)
 - [Onboarding](#onboarding)
-- [OLD README](README_OLD.md)
 
 <br><hr><br>
 

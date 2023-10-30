@@ -59,19 +59,19 @@
 ## Papers To Read
 - Attention Is All You Need - https://arxiv.org/abs/1706.03762
 - Llama 2: Open Foundation and Fine-Tuned Chat Models - https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
-- Orca: Progressive Learning from Comples Expalnation Traces of GPT-4 - https://arxiv.org/abs/2306.02707
+- Orca: Progressive Learning from Complex Explanation Traces of GPT-4 - https://arxiv.org/abs/2306.02707
 
 ## Articles, Videos and Guides
 - Getting Started With Hugging Face in 15 Minutes (transformer library) :thumbsup: - https://www.youtube.com/watch?v=QEaBAZQCtwE
 - mlabonne LLM Course :thumbsup: - https://github.com/mlabonne/llm-course - https://mlabonne.github.io/blog/
 - A Hacker's Guide to Langauge Models :thumbsup: - https://www.youtube.com/watch?v=jkrNMKz9pWU
-- Delpoy LLMs with Hugging Face Interence Endpoints - https://huggingface.co/blog/inference-endpoints-llm
+- Deploy LLMs with Hugging Face Interence Endpoints - https://huggingface.co/blog/inference-endpoints-llm
 - What Are Transformer Models and how Do They Work? - https://txt.cohere.com/what-are-transformer-models/
 - Start Machine Learning - https://github.com/louisfb01/start-machine-learning
 - AI for Beginners - https://microsoft.github.io/AI-For-Beginners/?id=getting-started
 - Seven New No-Cost Generative AI Training - https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources
 - Understading Deep Learning - https://udlbook.github.io/udlbook/
-
+- Practical Deep Learning Course Fast AI - https://course.fast.ai/
 
 ## Developer Skillset
 - Deploy LLM models
@@ -83,3 +83,11 @@
 - Context Input 
 - Manage/Publish models and datasets 
 - Program Apps to Interface with LLM Endpoints
+
+
+## Free Resources 
+- Python Data Science Handbook - https://github.com/jakevdp/PythonDataScienceHandbook
+- Intro to Machine Learning Interviews Book - https://huyenchip.com/ml-interviews-book/
+- Deep Learning with Python - https://www.manning.com/books/deep-learning-with-python-second-edition - https://github.com/fchollet/deep-learning-with-python-notebooks
+- Model-Based Machine Learning - https://mbmlbook.com/
+

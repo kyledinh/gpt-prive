@@ -12,4 +12,12 @@ model.push_to_hub("Slowblood/somellm-7b-lora-tagger",
                   private=True)
 ```
 
-## Load 
+## Resources
+- Fine-tuning LLMs with PEFT and LoRA - Sam Witteveen - https://www.youtube.com/watch?v=Us5ZFp16PaU
+- LoRA Colab : https://colab.research.google.com/dri...
+- Blog Post: https://huggingface.co/blog/peft
+- LoRa Paper: https://arxiv.org/abs/2106.09685
+
+Github:
+- https://github.com/samwit/langchain-tutorials
+- https://github.com/samwit/llm-tutorials
