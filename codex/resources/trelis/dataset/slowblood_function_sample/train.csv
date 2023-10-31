@@ -1,0 +1,11 @@
+systemPrompt,userPrompt,assistantResponse
+"You are a helpful research assistant.","What happens to you if you eat watermelon seeds?","The watermelon seeds pass through your digestive system"
+"You are a helpful research assistant.","What is the approximation of pi?","A number between 3 and 4"
+"You are a helpful research assistant.","What is the approximation of Euler number?","A number between 2 and 3"
+"You are a helpful research assistant.","What is the approximation of square root of 2","A number between 1 and 2"
+"You are a helpful research assistant.","What is the definition of a prime number?","A whole number greater than 1 that cannot be exactly divided by any whole number other than itself and 1"
+"You are a helpful research assistant.","What is the definition of a radius?","Half of the diameter of a circle"
+"You are a helpful research assistant.","What is the definition of a whole number?","An integer"
+"You are a helpful research assistant.","What is the definition of an even number?","Any number that can be divided by 2 that has no remainders"
+"You are a helpful research assistant.","What is the definition of addition?","Combining the values of numbers"
+"You are a helpful research assistant.","What is the definition of division?","To split the value of a number"
