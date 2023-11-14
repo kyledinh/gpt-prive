@@ -10,30 +10,35 @@
 - Prompt Engineerng 
 - Zero-shot Prompting - no hints 
 - One-shot Prompting - allow 1 context with the prompt to taylor the output 
-- Inference - 
+- Inference - Token generation  
 - Chain-of-Thought - Ask the model to generated a series/mulit-step output of the solution
 - Context Window
 - Input Limit/Sequence Length - Max token length for input
 - Output Limit 
-- Temperature 
+- Temperature - Parameter for setting range of desired variance of the output (vector embedddings)
 - Transformer
-- Tokenization
+- Tokenization 
 - Token 
 - Back Propagation
 - Input Embeddings
 - Embedding/Vector 
 - Corpus - All documents from a dataset
 - Dataset - Data for training, fine tuning
+- BERT - Bidirectional Encoder Representations from Transformers : classification, sentiment analysis, Q&A tasks; encoder-only -> classifier 
+- BART - Bidirectional AutoRegressive Transformer: seq2seq model, generative encoder/decoder, translation, summarization task
+- GPT - Generative Pre-trained Transformer, multi-headed attention encoder decoder 
 - Encoder/Decoder
-- Attention
+- Attention - 
 - Causal Language Model
 - Hallucination 
 - Vision Transformer 
-- Pre-training
-- Fine-tuning
+- Pre-training - Initial training for foundational model
+- Fine-tuning - Secondary training to generate adaptors to add to foundational models
 - Instruction Tuning
-- Sentiment Analysis
+- Sentiment Analysis - BERT-style transformation taking encoding to classifisy the input
 - PEFT - Parameter-Efficienct Fine-Tuning
 - QLoRA - Quantized Low-Rank Adapation
 - RLHF - Reinforcement Learning from Human Feedback 
 - GPT - Generative Pre-trained Transformer 
+- Cosine Similarity Forumla - https://www.learndatasci.com/glossary/cosine-similarity/
+- Dot Product - the top calulation of the Cosine Similarity formula, the similare score
