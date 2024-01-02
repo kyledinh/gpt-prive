@@ -32,6 +32,7 @@ setup:
 	@echo "SETUP:"
 	@cd scripts && ./setup-init.sh
 
+# update the setup.cfg > version  
 pkg-build:
 	@echo "Building pypi gpt-prive package"
 	@cd pypi && python -m build 
